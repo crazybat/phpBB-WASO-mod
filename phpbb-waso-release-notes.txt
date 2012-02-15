@@ -1,5 +1,5 @@
 ====================================================================================
-Project: 
+Project:
 phpBB Web and Accessibility Standards Overhaul (phpBB WASO)
 Based on phpbb 2.0.23 - http://phpbb.com
 
